@@ -1,3 +1,4 @@
 # Write your code here.
-badge_maker("Arel")
+<< badge_maker("Arel")
 => "Hello, my name is Arel."
+end
